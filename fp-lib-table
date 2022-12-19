@@ -1,2 +1,4 @@
 (fp_lib_table
+  (lib (name "Inrush_Limiter")(type "KiCad")(uri "${KIPRJMOD}/Inrush_Limiter.pretty")(options "")(descr ""))
+  (lib (name "LittelFuse")(type "KiCad")(uri "${KIPRJMOD}/LittelFuse.pretty")(options "")(descr ""))
 )
