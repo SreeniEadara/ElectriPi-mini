@@ -2253,7 +2253,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7dc6fb3b-d05f-469c-aa2d-15bc56b29749)
   )
-  (text "ElectriPi Schematic" (at 15.24 20.32 0)
+  (text "ElectriPi mini Schematic" (at 15.24 20.32 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 88695b5b-36b8-44d7-9c52-6f1d0289e7c1)
   )
